@@ -7,7 +7,7 @@
         <Values>
           <Standard>
             <GUID>1600000040</GUID>
-            <Name>Specialist AE-Linked-Armouries-Custodes-E</Name>
+            <Name>Specialist AE-Watchtower-C</Name>
             <IconFilename>data/base/graphics/icons/roman_male_ArmsToCustodes.png</IconFilename>
             <InfoDescription>1600000041</InfoDescription>
           </Standard>
@@ -21,16 +21,16 @@
             </Buffs>
             <Targets> <!-- Targets of Buff -->
               <Item>
-                <GUID>50614</GUID>
+                <GUID>71277</GUID>
               </Item>
             </Targets>
             <HideInGovernorsBar>1</HideInGovernorsBar>
           </Effect>
           <Item>
             <Niche>Military</Niche>
-            <TradePrice>63000</TradePrice> 
+            <TradePrice>2500</TradePrice> 
             <BarkPool>83302</BarkPool> <!-- <GUID>83302</GUID> -->
-            <Rarity>Epic</Rarity> 
+            <Rarity>Common</Rarity> 
           </Item>
           <Locked>
             <DefaultLockedState>0</DefaultLockedState>
@@ -52,7 +52,7 @@
             <Values>
                 <Standard>
                     <GUID>1600000041</GUID>
-                    <Name>Specialist AE-Linked-Armouries-Custodes-E BuildingBuff</Name>
+                    <Name>Specialist AE-Watchtower-C BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/roman_male_ArmsToCustodes.png</IconFilename>
                 </Standard>
                 <Text>
@@ -67,33 +67,10 @@
                     <SourceCategory>Item</SourceCategory>
                 </Buff>
                 <ResidenceUpgrade/>
-                <FactoryUpgrade>
-                  <ProductivityUpgrade>
-                    <Value>0</Value>
-                    <Percental>1</Percental>
-			            </ProductivityUpgrade>
-                </FactoryUpgrade>
+                <FactoryUpgrade/>
                 <ModuleOwnerUpgrade/>
                 <MaintenanceUpgrade/>
-                <CityInstitutionUpgrade> 
-                  <!-- 
-                  This is here to inform the player about the Buffs on TargetBuildings! 
-                  UI currently don't reflect this. 
-                  Buff itself will have no effect on Building. Workaround is to inform Player via Description. 
-                  -->
-                  <ResolverRangeUpgrade>
-                    <Value>10</Value>
-                    <Percental>1</Percental>
-                  </ResolverRangeUpgrade>
-                  <ResolverUnitCountUpgrade>
-				            <Value>0</Value>
-				            <Percental>0</Percental>
-			            </ResolverUnitCountUpgrade>
-                  <ResolverResolveDurationUpgrade>
-                    <Value>-25</Value>
-                    <Percental>1</Percental>
-                  </ResolverResolveDurationUpgrade>
-                </CityInstitutionUpgrade>
+                <CityInstitutionUpgrade/>
                 <IncidentInfectableUpgrade/>
                 <RecruitmentUpgrade/>
                 <AqueductUpgrade/>
@@ -109,11 +86,11 @@
             <Values>
                 <Standard>
                     <GUID>1600000042</GUID>
-                    <Name>Specialist AE-Linked-Armouries-Custodes-E FunctionalEffect</Name>
+                    <Name>Specialist AE-Watchtower-C FunctionalEffect</Name>
                     <IconFilename>data/base/graphics/icons/roman_male_ArmsToCustodes.png</IconFilename>
                 </Standard>
                 <Effect>
-                    <EffectScope>Radius</EffectScope>
+                    <EffectScope>StreetDistance</EffectScope>
                     <SourceCategory>Adjacency</SourceCategory>
                     <Buffs>
                         <Item>
@@ -122,7 +99,7 @@
                     </Buffs>
                     <Targets>
                         <Item>
-                            <GUID>38560</GUID>
+                            <GUID>43097</GUID>
                         </Item>
                     </Targets>
                     <ExcludeEffectSourceGUID>0</ExcludeEffectSourceGUID>
@@ -141,7 +118,7 @@
             <Values>
                 <Standard>
                     <GUID>1600000043</GUID>
-                    <Name>Specialist AE-Linked-Armouries-Custodes-E FunctionalEffect BuildingBuff</Name>
+                    <Name>Specialist AE-Watchtower-C FunctionalEffect BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/roman_male_ArmsToCustodes.png</IconFilename>
                 </Standard>
                 <Text>
@@ -149,6 +126,56 @@
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
+                    <AdditionalAttributes>
+                        <Population>
+                        <AmountOrPercent>
+                            <Value>0</Value>
+                            <Percental>0</Percental>
+                        </AmountOrPercent>
+                        </Population>
+                        <Happiness>
+                        <AmountOrPercent>
+                            <Value>1</Value>
+                            <Percental>0</Percental>
+                        </AmountOrPercent>
+                        </Happiness>
+                        <Money>
+                        <AmountOrPercent>
+                            <Value>1</Value>
+                            <Percental>0</Percental>
+                        </AmountOrPercent>
+                        </Money>
+                        <Prestige>
+                        <AmountOrPercent>
+                            <Value>2</Value>
+                            <Percental>0</Percental>
+                        </AmountOrPercent>
+                        </Prestige>
+                        <Belief>
+                            <AmountOrPercent>
+                                <Value>0</Value>
+                                <Percental>0</Percental>
+                            </AmountOrPercent>
+                        </Belief>
+                        <Knowledge>
+                            <AmountOrPercent>
+                                <Value>0</Value>
+                                <Percental>0</Percental>
+                            </AmountOrPercent>
+                        </Knowledge>
+                        <FireSafety>
+                            <AmountOrPercent>
+                                <Value>0</Value>
+                                <Percental>0</Percental>
+                            </AmountOrPercent>
+                        </FireSafety>
+                        <Health>
+                            <AmountOrPercent>
+                                <Value>0</Value>
+                                <Percental>0</Percental>
+                            </AmountOrPercent>
+                        </Health>
+                    </AdditionalAttributes>
                 </BuildingUpgrade>
                 <DistributionUpgrade/>
                 <Buff>
@@ -158,20 +185,7 @@
                 <FactoryUpgrade/>
                 <ModuleOwnerUpgrade/>
                 <MaintenanceUpgrade/>
-                <CityInstitutionUpgrade>
-                  <ResolverRangeUpgrade>
-                    <Value>10</Value>
-                    <Percental>1</Percental>
-                  </ResolverRangeUpgrade>
-                  <ResolverUnitCountUpgrade>
-				            <Value>0</Value>
-				            <Percental>0</Percental>
-			            </ResolverUnitCountUpgrade>
-                  <ResolverResolveDurationUpgrade>
-                    <Value>-25</Value>
-                    <Percental>1</Percental>
-                  </ResolverResolveDurationUpgrade>
-                </CityInstitutionUpgrade>
+                <CityInstitutionUpgrade/>
                 <IncidentInfectableUpgrade/>
                 <RecruitmentUpgrade/>
                 <AqueductUpgrade/>

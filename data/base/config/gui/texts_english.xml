@@ -1,6 +1,6 @@
 <ModOps>
 
-  <!-- Specialist AE-Linked-Armouries-Custodes-E -->
+  <!-- Specialist AE-Watchtower-C -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -10,13 +10,13 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Reroutes local armaments for the Custodes. &#xD;Hint: Armories in Range apply the Area Effect for all Custodia in their range.</Text>
+          <Text>PlaceholderText</Text>
           <LineId>1600000041</LineId> 
       </Text>
     </ModOp>
   </Group>
 
-  <!-- Specialist AE-Linked-Cistern-VigiMedi-E -->
+  <!-- Specialist AE-Wells-C -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -26,10 +26,10 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Shows the importance of water systems by creating supply chains of water for Medici and Vigiles. &#xD;Hint: Cistern in Range apply the Area Effect to all Medici and Vigiles in their Street Range.</Text>
+          <Text>PlaceholderText</Text>
           <LineId>1600000053</LineId> 
       </Text>
     </ModOp>
   </Group>
-  
+
 </ModOps>

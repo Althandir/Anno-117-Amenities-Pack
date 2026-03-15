@@ -1,6 +1,6 @@
 <ModOps>
 
-  <!-- Specialist AE-Linked-Armouries-Custodes-E -->
+  <!-- Specialist AE-Watchtower-C -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -10,13 +10,13 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Leitet lokale Rüstungen für mehr Custodes um. &#xD;Hinweis: Waffenkammern in Reichweite wenden den Flächeneffekt auf alle Custodia in ihrer Reichweite an.</Text>
+          <Text>PlaceholderText</Text>
           <LineId>1600000041</LineId> 
       </Text>
     </ModOp>
   </Group>
 
-  <!-- Specialist AE-Linked-Cistern-VigiMedi-E -->
+  <!-- Specialist AE-Wells-C -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -26,10 +26,10 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Zeigt die Bedeutung von Wassersystemen auf, indem eine Wasserversorgung für Medici und Vigiles geschaffen wird. &#xD;Hinweis: Zisternen im Radius wenden den Flächeneffekt auf alle Medici und Vigiles in ihrer Straßenreichweite an.</Text>
+          <Text>PlaceholderText</Text>
           <LineId>1600000053</LineId> 
       </Text>
     </ModOp>
   </Group>
-  
+
 </ModOps>

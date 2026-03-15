@@ -19,8 +19,8 @@
 <ModOps>
 <!-- Common Specialists -->
 <Group>
-    <Include File="items-common/AE-Linked-Armouries-Custodes-E.xml" />
-    <Include File="items-common/AE-Linked-Cistern-VigiMedi-E.xml" />
+    <Include File="items-common/AE-Watchtower-C.xml" />
+    <Include File="items-common/AE-Wells-C.xml" />
 </Group>
 
 <!-- Rare Specialists -->

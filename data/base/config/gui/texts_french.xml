@@ -1,6 +1,6 @@
 <ModOps>
 
-  <!-- Specialist AE-Linked-Armouries-Custodes-E -->
+  <!-- Specialist AE-Watchtower-C -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -10,13 +10,13 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Réoriente les armements locaux. &#xD;Indice: les armureries à portée appliquent l'effet de zone à toutes les Custodia situées dans leur rayon d'action.</Text>
+          <Text>PlaceholderText</Text>
           <LineId>1600000041</LineId> 
       </Text>
     </ModOp>
   </Group>
 
-  <!-- Specialist AE-Linked-Cistern-VigiMedi-E -->
+  <!-- Specialist AE-Wells-C -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -26,10 +26,10 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Montre l'importance des systèmes d'approvisionnement en eau en créant des chaînes d'approvisionnement en eau pour les Médicis et les Vigiles. &#xD;Indice: les citernes dans la zone d'effet appliquent l'effet de zone à tous les Médicis et Vigiles dans leur zone d'effet.</Text>
+          <Text>PlaceholderText</Text>
           <LineId>1600000053</LineId> 
       </Text>
     </ModOp>
   </Group>
-  
+
 </ModOps>
