@@ -1,5 +1,5 @@
 {
-  "ModID": "althandir-altdolphin-<Placeholder>-pack",
+  "ModID": "althandir-altdolphin-amenities-pack",
   "Version": "1.0.0",
   "Anno": 8,
   "IncompatibleIds": null,
@@ -17,30 +17,30 @@
   },
 
   "ModName": {
-    "English": " <Placeholder> Pack by Althandir / Altdolphin",
+    "English": "Amenities Pack by Althandir / Altdolphin",
     "German": "Beispiel Pack von Althandir / Altdolphin",
-    "French": "[EN]  <Placeholder> Pack by Althandir / Altdolphin",
-    "Italian": "[EN]  <Placeholder> Pack by Althandir / Altdolphin",
-    "Polish": "[EN]  <Placeholder> Pack by Althandir / Altdolphin",
-    "Spanish": "[EN]  <Placeholder> Pack by Althandir / Altdolphin",
-    "Chinese": "[EN]  <Placeholder> Pack by Althandir / Altdolphin",
-    "Japanese": "[EN]  <Placeholder> Pack by Althandir / Altdolphin",
-    "Korean": "[EN]  <Placeholder> Pack by Althandir / Altdolphin",
-    "Taiwanese": "[EN]  <Placeholder> Pack by Althandir / Altdolphin",
-    "Russian": "[EN]  <Placeholder> Pack by Althandir / Altdolphin"
+    "French": "[EN] Amenities Pack by Althandir / Altdolphin",
+    "Italian": "[EN] Amenities Pack by Althandir / Altdolphin",
+    "Polish": "[EN] Amenities Pack by Althandir / Altdolphin",
+    "Spanish": "[EN] Amenities Pack by Althandir / Altdolphin",
+    "Chinese": "[EN] Amenities Pack by Althandir / Altdolphin",
+    "Japanese": "[EN] Amenities Pack by Althandir / Altdolphin",
+    "Korean": "[EN] Amenities Pack by Althandir / Altdolphin",
+    "Taiwanese": "[EN] Amenities Pack by Althandir / Altdolphin",
+    "Russian": "[EN] Amenities Pack by Althandir / Altdolphin"
   },
   "Description": {
-    "English": "Adds new Specialists focused on <Placeholder> to Anno 117.",
-    "German": "Fügt neue Spezialisten mit Fokus auf <Placeholder> zu Anno 117 hinzu.",
-    "French": "[EN] Adds new Specialists focused on <Placeholder> to Anno 117.",
-    "Italian": "[EN] Adds new Specialists focused on <Placeholder> to Anno 117.",
-    "Polish": "[EN] Adds new Specialists focused on <Placeholder> to Anno 117.",
-    "Spanish": "[EN] Adds new Specialists focused on <Placeholder> to Anno 117.",
-    "Chinese": "[EN] Adds new Specialists focused on <Placeholder> to Anno 117.",
-    "Japanese": "[EN] Adds new Specialists focused on <Placeholder> to Anno 117.",
-    "Korean": "[EN] Adds new Specialists focused on <Placeholder> to Anno 117.",
-    "Taiwanese": "[EN] Adds new Specialists focused on <Placeholder> to Anno 117.",
-    "Russian": "[EN] Adds new Specialists focused on <Placeholder> to Anno 117."
+    "English": "Adds new Specialists focused on Amenities to Anno 117.",
+    "German": "Fügt neue Spezialisten mit Fokus auf Annehmlichkeiten zu Anno 117 hinzu.",
+    "French": "[EN] Adds new Specialists focused on Amenities to Anno 117.",
+    "Italian": "[EN] Adds new Specialists focused on Amenities to Anno 117.",
+    "Polish": "[EN] Adds new Specialists focused on Amenities to Anno 117.",
+    "Spanish": "[EN] Adds new Specialists focused on Amenities to Anno 117.",
+    "Chinese": "[EN] Adds new Specialists focused on Amenities to Anno 117.",
+    "Japanese": "[EN] Adds new Specialists focused on Amenities to Anno 117.",
+    "Korean": "[EN] Adds new Specialists focused on Amenities to Anno 117.",
+    "Taiwanese": "[EN] Adds new Specialists focused on Amenities to Anno 117.",
+    "Russian": "[EN] Adds new Specialists focused on Amenities to Anno 117."
   },
   "Category": {
     "English": "Gameplay",
