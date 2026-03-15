@@ -1,34 +1,35 @@
 <ModOps>
 
-  <!-- Specialist Test-C -->
+  <!-- Specialist AE-Linked-Armouries-Custodes-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Specialist Test-C</Text>
-          <LineId>1600000000</LineId> <!-- <GUID>1600000000</GUID> -->
+          <Text>Gaius Armifex, örtlicher Rüstungsschmied</Text>
+          <LineId>1600000040</LineId> <!-- <GUID>1600000040</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Test Text. Meb Meb!</Text>
-          <LineId>1600000001</LineId> 
+          <Text>Leitet lokale Rüstungen für mehr Custodes um. &#xD;Hinweis: Waffenkammern in Reichweite wenden den Flächeneffekt auf alle Custodia in ihrer Reichweite an.</Text>
+          <LineId>1600000041</LineId> 
       </Text>
     </ModOp>
   </Group>
 
-  <!-- Specialist Test-C -->
+  <!-- Specialist AE-Linked-Cistern-VigiMedi-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Specialist AreaEffect-Test-C</Text>
-          <LineId>1600000002</LineId> <!-- <GUID>1600000002</GUID> -->
+          <Text>Aquarius, der Wasserversorger</Text>
+          <LineId>1600000052</LineId> <!-- <GUID>1600000052</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Test Text. Meb Meb!</Text>
-          <LineId>1600000003</LineId> 
+          <Text>Zeigt die Bedeutung von Wassersystemen auf, indem eine Wasserversorgung für Medici und Vigiles geschaffen wird. &#xD;Hinweis: Zisternen im Radius wenden den Flächeneffekt auf alle Medici und Vigiles in ihrer Straßenreichweite an.</Text>
+          <LineId>1600000053</LineId> 
       </Text>
     </ModOp>
   </Group>
+  
 </ModOps>

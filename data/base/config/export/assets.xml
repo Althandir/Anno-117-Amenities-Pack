@@ -6,8 +6,8 @@
 
 ###  
 #   GUID-Ranges:  
-#   1600000xxx - 1600000xxx 
-#
+#   1600000040 - 1600000043 
+#   1600000052 - 1600000055
 #
 #
 #
@@ -19,7 +19,8 @@
 <ModOps>
 <!-- Common Specialists -->
 <Group>
-    <Include File="items-common/Test-C.xml" />
+    <Include File="items-common/AE-Linked-Armouries-Custodes-E.xml" />
+    <Include File="items-common/AE-Linked-Cistern-VigiMedi-E.xml" />
 </Group>
 
 <!-- Rare Specialists -->

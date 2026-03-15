@@ -1,34 +1,35 @@
 <ModOps>
 
-  <!-- Specialist Test-C -->
+  <!-- Specialist AE-Linked-Armouries-Custodes-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Specialist Test-C</Text>
-          <LineId>1600000000</LineId> <!-- <GUID>1600000000</GUID> -->
+          <Text>Gaius Armifex, armurier local</Text>
+          <LineId>1600000040</LineId> <!-- <GUID>1600000040</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Test Text. Meb Meb!</Text>
-          <LineId>1600000001</LineId> 
+          <Text>Réoriente les armements locaux. &#xD;Indice: les armureries à portée appliquent l'effet de zone à toutes les Custodia situées dans leur rayon d'action.</Text>
+          <LineId>1600000041</LineId> 
       </Text>
     </ModOp>
   </Group>
 
-  <!-- Specialist Test-C -->
+  <!-- Specialist AE-Linked-Cistern-VigiMedi-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Specialist AreaEffect-Test-C</Text>
-          <LineId>1600000002</LineId> <!-- <GUID>1600000002</GUID> -->
+          <Text>Aquarius, le fournisseur d’eau</Text>
+          <LineId>1600000052</LineId> <!-- <GUID>1600000052</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Test Text. Meb Meb!</Text>
-          <LineId>1600000003</LineId> 
+          <Text>Montre l'importance des systèmes d'approvisionnement en eau en créant des chaînes d'approvisionnement en eau pour les Médicis et les Vigiles. &#xD;Indice: les citernes dans la zone d'effet appliquent l'effet de zone à tous les Médicis et Vigiles dans leur zone d'effet.</Text>
+          <LineId>1600000053</LineId> 
       </Text>
     </ModOp>
   </Group>
+  
 </ModOps>
