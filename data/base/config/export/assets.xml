@@ -8,24 +8,22 @@
 #   GUID-Ranges:  
 #   1600000040 - 1600000043 
 #   1600000052 - 1600000055
-#
-#
-#
-#
-#
-#
+#   1600000503 - 1600000560
 ###
 -->
 <ModOps>
 <!-- Common Specialists -->
 <Group>
+    <Include File="items-common/AE-Latrines-C.xml" />
     <Include File="items-common/AE-Watchtower-C.xml" />
     <Include File="items-common/AE-Wells-C.xml" />
 </Group>
 
 <!-- Rare Specialists -->
 <Group>
-
+    <Include File="items-rare/AE-Latrines-R.xml" />
+    <Include File="items-rare/AE-Watchtower-R.xml" />
+    <Include File="items-rare/AE-Wells-R.xml" />
 </Group>
 
 <!-- Epic Specialists -->
@@ -35,12 +33,29 @@
 
 <!-- Legendary Specialists -->
 <Group>
-
+    <Include File="items-legendary/AE-Latrines-Health-L.xml" />
+    <Include File="items-legendary/AE-Latrines-Know-L.xml" />
+    <Include File="items-legendary/AE-Watchtower-Happy-L.xml" />
+    <Include File="items-legendary/AE-Watchtower-Money-L.xml" />
+    <Include File="items-legendary/AE-Wells-Belief-L.xml" />
+    <Include File="items-legendary/AE-Wells-FireSafety-L.xml" />
 </Group>
 
 <!-- Add to Pools -->
 <Include File="pools/AssetList/AssetListPool.xml" />
 <Include File="pools/RewardPool/RewardPool-AllItems&Specialists.xml" />
+<Include File="pools/RewardPool/RewardPool-Culture-C.xml" />
+<Include File="pools/RewardPool/RewardPool-Culture-L.xml" />
+<Include File="pools/RewardPool/RewardPool-Finance-L.xml" />
+<Include File="pools/RewardPool/RewardPool-Finance-R.xml" />
+<Include File="pools/RewardPool/RewardPool-Military-C.xml" />
+<Include File="pools/RewardPool/RewardPool-Military-L.xml" />
+<Include File="pools/RewardPool/RewardPool-Nature-C.xml" />
+<Include File="pools/RewardPool/RewardPool-Nature-L.xml" />
+<Include File="pools/RewardPool/RewardPool-Religion-L.xml" />
+<Include File="pools/RewardPool/RewardPool-Religion-R.xml" />
+<Include File="pools/RewardPool/RewardPool-Research-L.xml" />
+<Include File="pools/RewardPool/RewardPool-Research-R.xml" />
 
 <!-- Add to Traderpools --> 
 <Include File="pools/Traders/pools-common.xml" />

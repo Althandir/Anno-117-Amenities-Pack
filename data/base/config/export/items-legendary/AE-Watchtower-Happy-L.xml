@@ -1,0 +1,357 @@
+<ModOps>
+<!-- Item Definition GUID:1600000526 - 1600000529 + 1600000530 - 1600000532 | LineID:1600000526 - 1600000528 -->
+    <Group>
+        <ModOp Type="addNextSibling" GUID="106410">
+        <Asset>
+            <Template>ItemWithBoost</Template>
+            <Values>
+            <Standard>
+                <GUID>1600000526</GUID>
+                <Name>Specialist AE-Watchtower-Happy-L</Name>
+                <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                <InfoDescription>1600000527</InfoDescription>
+            </Standard>
+            <Effect>
+                <EffectScope>ObjectsInArea</EffectScope>  
+                <SourceCategory>Item</SourceCategory>
+                <Buffs>
+                <Item>
+                    <GUID>1600000527</GUID>
+                </Item>
+                </Buffs>
+                <Targets> <!-- Targets of Buff -->
+                <Item>
+                    <GUID>71278</GUID>
+                </Item>
+                </Targets>
+                <HideInGovernorsBar>1</HideInGovernorsBar>
+            </Effect>
+            <Item>
+                <Niche>Culture</Niche> 
+                <TradePrice>350000</TradePrice> 
+                <BarkPool>0</BarkPool> <!-- <GUID>0</GUID> -->
+                <Rarity>Legendary</Rarity> 
+            </Item>
+            <Locked>
+                <DefaultLockedState>0</DefaultLockedState>
+            </Locked>
+            <Text>
+                <OasisId>1600000526</OasisId>
+            </Text>
+            
+            <ItemWithBoost>
+                <!-- Condition - min. 150 Weapons in Storage 
+                # Would work but currently bugged.
+                # Does also not work on <GUID>54034</GUID>
+                # Ubi pls Fix.
+                <BoostCondition>
+                    <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                    <Values>
+                        <PreConditionList>
+                            <Condition>
+                                <Template>ConditionInStorage</Template>
+                                <Values>
+                                    <Condition/>
+                                    <ConditionInStorage>
+                                        <InStorageGoods>
+                                            <Item>
+                                                <Product>2173</Product>
+                                                <Amount>150</Amount>
+                                            </Item>
+                                        </InStorageGoods>
+                                    </ConditionInStorage>
+                                    <ObjectFilter/>
+                                </Values>
+                            </Condition>
+                        </PreConditionList>
+                    </Values>
+                </BoostCondition>
+                -->
+                <!-- Alternative: 4x Custodia on Island until fixed -->
+                <BoostCondition>
+				<IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+				<Values>
+					<PreConditionList>
+						<Condition>
+							<Template>ConditionObjectCount</Template>
+							<Values>
+								<Condition/>
+								<ConditionObjectCount>
+									<Amount>4</Amount>
+								</ConditionObjectCount>
+								<ObjectFilter>
+									<ObjectGUID>38560</ObjectGUID>
+									<ObjectLocations>
+										<Template>LocationFilter</Template>
+										<Values>
+											<LocationFilter>
+												<ObjectLocations>
+													<ObjectFilter>
+														<Template>ObjectFilter</Template>
+														<Values>
+															<ObjectFilter>
+																<UseContextObjects>1</UseContextObjects>
+															</ObjectFilter>
+														</Values>
+													</ObjectFilter>
+												</ObjectLocations>
+											</LocationFilter>
+										</Values>
+									</ObjectLocations>
+								</ObjectFilter>
+							</Values>
+						</Condition>
+					</PreConditionList>
+				</Values>
+			    </BoostCondition>
+                <BoostBuffs>
+                    <Item>
+                        <GUID>1600000530</GUID>
+                    </Item>
+                </BoostBuffs>
+                <BoostHint>1600000528</BoostHint>
+                </ItemWithBoost>
+            </Values>
+        </Asset>
+        </ModOp>
+    </Group>
+
+    <!-- Normal Buff Definitions-->
+    <Group>
+    <!-- BuildingEffect Definition -->
+    <ModOp Type="addNextSibling" GUID="80193">
+        <Asset>
+            <Template>BuildingBuff</Template>
+            <Values>
+                <Standard>
+                    <GUID>1600000527</GUID>
+                    <Name>Specialist AE-Watchtower-Happy-L BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                </Standard>
+                <Text>
+                    <OasisId>1600000526</OasisId>
+                </Text>
+                <HealthUpgrade/>
+                <BuildingUpgrade>
+                    <AdditionalFunctionalEffect>1600000528</AdditionalFunctionalEffect>
+                </BuildingUpgrade>
+                <DistributionUpgrade/>
+                <Buff>
+                    <SourceCategory>Item</SourceCategory>
+                </Buff>
+                <ResidenceUpgrade>
+                </ResidenceUpgrade>
+                <FactoryUpgrade/>
+                <ModuleOwnerUpgrade/>
+                <MaintenanceUpgrade/>
+                <CityInstitutionUpgrade/>
+                <IncidentInfectableUpgrade/>
+                <RecruitmentUpgrade/>
+                <AqueductUpgrade/>
+                <WarehouseUpgrade/>
+                <IrrigationUpgrade/>
+            </Values>
+        </Asset>
+    </ModOp>
+    
+    <ModOp Type="addNextSibling" GUID="135498">
+        <Asset>
+            <Template>Effect</Template>
+            <Values>
+                <Standard>
+                    <GUID>1600000528</GUID>
+                    <Name>Specialist AE-Watchtower-Happy-L FunctionalEffect</Name>
+                    <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                </Standard>
+                <Effect>
+                    <EffectScope>StreetDistance</EffectScope>
+                    <SourceCategory>Adjacency</SourceCategory>
+                    <Buffs>
+                        <Item>
+                            <GUID>1600000529</GUID>
+                        </Item>
+                    </Buffs>
+                    <Targets>
+                        <Item>
+                            <GUID>43097</GUID>
+                        </Item>
+                    </Targets>
+                    <ExcludeEffectSourceGUID>0</ExcludeEffectSourceGUID>
+                    <HideInGovernorsBar>1</HideInGovernorsBar>
+                </Effect>
+                <Text>
+                    <OasisId>1600000526</OasisId>
+                </Text>
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <ModOp Type="addNextSibling" GUID="80193">
+        <Asset>
+            <Template>BuildingBuff</Template>
+            <Values>
+                <Standard>
+                    <GUID>1600000529</GUID>
+                    <Name>Specialist AE-Watchtower-Happy-L FunctionalEffect BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                </Standard>
+                <Text>
+                    <OasisId>1600000526</OasisId>
+                </Text>
+                <HealthUpgrade/>
+                <BuildingUpgrade>
+                    <AdditionalAttributes>
+                        <Happiness>
+                            <AmountOrPercent>
+                                <Value>1</Value>
+                                <Percental>0</Percental>
+                            </AmountOrPercent>
+                        </Happiness>
+                    </AdditionalAttributes>
+                </BuildingUpgrade>
+                <DistributionUpgrade/>
+                <Buff>
+                    <SourceCategory>Adjacency</SourceCategory>
+                </Buff>
+                <ResidenceUpgrade>
+                </ResidenceUpgrade>
+                <FactoryUpgrade/>
+                <ModuleOwnerUpgrade/>
+                <MaintenanceUpgrade/>
+                <CityInstitutionUpgrade/>
+                <IncidentInfectableUpgrade/>
+                <RecruitmentUpgrade/>
+                <AqueductUpgrade/>
+                <WarehouseUpgrade/>
+                <IrrigationUpgrade/>
+            </Values>
+        </Asset>
+    </ModOp>
+    </Group>
+  
+    <!-- Boosted Buff Definitions-->
+    <Group>
+    <!-- BuildingEffect Definition -->
+    <ModOp Type="addNextSibling" GUID="80193">
+        <Asset>
+            <Template>BuildingBuff</Template>
+            <Values>
+                <Standard>
+                    <GUID>1600000530</GUID>
+                    <Name>Specialist AE-Watchtower-Happy-L Boost BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                </Standard>
+                <Text>
+                    <OasisId>1600000526</OasisId>
+                </Text>
+                <HealthUpgrade/>
+                <BuildingUpgrade>
+                    <AdditionalFunctionalEffect>1600000531</AdditionalFunctionalEffect>
+                </BuildingUpgrade>
+                <DistributionUpgrade/>
+                <Buff>
+                    <SourceCategory>Item</SourceCategory>
+                </Buff>
+                <ResidenceUpgrade>
+                </ResidenceUpgrade>
+                <FactoryUpgrade/>
+                <ModuleOwnerUpgrade/>
+                <MaintenanceUpgrade/>
+                <CityInstitutionUpgrade/>
+                <IncidentInfectableUpgrade/>
+                <RecruitmentUpgrade/>
+                <AqueductUpgrade/>
+                <WarehouseUpgrade/>
+                <IrrigationUpgrade/>
+            </Values>
+        </Asset>
+    </ModOp>
+    
+    <ModOp Type="addNextSibling" GUID="135498">
+        <Asset>
+            <Template>Effect</Template>
+            <Values>
+                <Standard>
+                    <GUID>1600000531</GUID>
+                    <Name>Specialist AE-Watchtower-Happy-L Boost FunctionalEffect</Name>
+                    <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                </Standard>
+                <Effect>
+                    <EffectScope>StreetDistance</EffectScope>
+                    <SourceCategory>Adjacency</SourceCategory>
+                    <Buffs>
+                        <Item>
+                            <GUID>1600000532</GUID>
+                        </Item>
+                    </Buffs>
+                    <Targets>
+                        <Item>
+                            <GUID>43097</GUID>
+                        </Item>
+                    </Targets>
+                    <ExcludeEffectSourceGUID>0</ExcludeEffectSourceGUID>
+                    <HideInGovernorsBar>1</HideInGovernorsBar>
+                </Effect>
+                <Text>
+                    <OasisId>1600000526</OasisId>
+                </Text>
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <ModOp Type="addNextSibling" GUID="80193">
+        <Asset>
+            <Template>BuildingBuff</Template>
+            <Values>
+                <Standard>
+                    <GUID>1600000532</GUID>
+                    <Name>Specialist AE-Watchtower-Happy-L Boost FunctionalEffect BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                </Standard>
+                <Text>
+                    <OasisId>1600000526</OasisId>
+                </Text>
+                <HealthUpgrade/>
+                <BuildingUpgrade>
+                    <AdditionalAttributes>
+                        <Happiness>
+                            <AmountOrPercent>
+                                <Value>1</Value>
+                                <Percental>0</Percental>
+                            </AmountOrPercent>
+                        </Happiness>
+                        <Prestige>
+                            <AmountOrPercent>
+                                <Value>0.5</Value>
+                                <Percental>0</Percental>
+                            </AmountOrPercent>
+                        </Prestige>
+                        <Knowledge>
+                            <AmountOrPercent>
+                                <Value>0.5</Value>
+                                <Percental>0</Percental>
+                            </AmountOrPercent>
+                        </Knowledge>
+                    </AdditionalAttributes>
+                </BuildingUpgrade>
+                <DistributionUpgrade/>
+                <Buff>
+                    <SourceCategory>Adjacency</SourceCategory>
+                </Buff>
+                <ResidenceUpgrade>
+                </ResidenceUpgrade>
+                <FactoryUpgrade/>
+                <ModuleOwnerUpgrade/>
+                <MaintenanceUpgrade/>
+                <CityInstitutionUpgrade/>
+                <IncidentInfectableUpgrade/>
+                <RecruitmentUpgrade/>
+                <AqueductUpgrade/>
+                <WarehouseUpgrade/>
+                <IrrigationUpgrade/>
+            </Values>
+        </Asset>
+    </ModOp>
+  </Group>
+
+</ModOps>

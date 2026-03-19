@@ -21,7 +21,7 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Aquarius, the Watersupplier</Text>
+          <Text>PlaceholderText</Text>
           <LineId>1600000052</LineId> <!-- <GUID>1600000052</GUID> -->
       </Text>
       <!-- Description -->
@@ -31,5 +31,195 @@
       </Text>
     </ModOp>
   </Group>
+
+  <!-- Specialist AE-Latrines-C -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>PlaceholderText</Text>
+          <LineId>1600000503</LineId> <!-- <GUID>1600000503</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>PlaceholderText</Text>
+          <LineId>1600000504</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AE-Latrines-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>PlaceholderText</Text>
+          <LineId>1600000507</LineId> <!-- <GUID>1600000507</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>PlaceholderText</Text>
+          <LineId>1600000508</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AE-Watchtower-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>PlaceholderText</Text>
+          <LineId>1600000511</LineId> <!-- <GUID>1600000511</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>PlaceholderText</Text>
+          <LineId>1600000512</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AE-Wells-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>PlaceholderText</Text>
+          <LineId>1600000515</LineId> <!-- <GUID>1600000515</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>PlaceholderText</Text>
+          <LineId>1600000516</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AE-Latrines-Health-L -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>PlaceholderText, PlaceholderText</Text>
+          <LineId>1600000519</LineId> <!-- <GUID>1600000519</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>PlaceholderText</Text>
+          <LineId>1600000520</LineId> 
+      </Text>
+      <!-- Boosted Hint -->
+      <Text>
+          <Text>PlaceholderText (4x Medici on Island)</Text>
+          <LineId>1600000521</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AE-Watchtower-Happy-L -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>PlaceholderText, PlaceholderText</Text>
+          <LineId>1600000526</LineId> <!-- <GUID>1600000526</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>PlaceholderText</Text>
+          <LineId>1600000527</LineId> 
+      </Text>
+      <!-- Boosted Hint -->
+      <Text>
+          <Text>PlaceholderText (4x Custodia on Island)</Text>
+          <LineId>1600000528</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AE-Wells-FireSafety-L -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>PlaceholderText, PlaceholderText</Text>
+          <LineId>1600000533</LineId> <!-- <GUID>1600000533</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>PlaceholderText</Text>
+          <LineId>1600000534</LineId> 
+      </Text>
+      <!-- Boosted Hint -->
+      <Text>
+          <Text>PlaceholderText (3x Water Distributor on Island)</Text>
+          <LineId>1600000535</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AE-Latrines-Know-L -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>PlaceholderText, PlaceholderText</Text>
+          <LineId>1600000540</LineId> <!-- <GUID>1600000540</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>PlaceholderText</Text>
+          <LineId>1600000541</LineId> 
+      </Text>
+      <!-- Boosted Hint -->
+      <Text>
+          <Text>PlaceholderText (12x Latrines on Island)</Text>
+          <LineId>1600000542</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+  
+  <!-- Specialist AE-Watchtower-Money-L -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>PlaceholderText, PlaceholderText</Text>
+          <LineId>1600000547</LineId> <!-- <GUID>1600000547</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>PlaceholderText</Text>
+          <LineId>1600000548</LineId> 
+      </Text>
+      <!-- Boosted Hint -->
+      <Text>
+          <Text>PlaceholderText (12x Watchtower on Island)</Text>
+          <LineId>1600000549</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+  
+  <!-- Specialist AE-Wells-Belief-L -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>PlaceholderText, PlaceholderText</Text>
+          <LineId>1600000554</LineId> <!-- <GUID>1600000554</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>PlaceholderText</Text>
+          <LineId>1600000555</LineId> 
+      </Text>
+      <!-- Boosted Hint -->
+      <Text>
+          <Text>PlaceholderText (1x Temple on Island)</Text>
+          <LineId>1600000556</LineId> 
+      </Text>
+    </ModOp>
+  </Group> 
 
 </ModOps>

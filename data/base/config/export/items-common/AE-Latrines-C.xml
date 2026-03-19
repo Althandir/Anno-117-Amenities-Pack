@@ -1,42 +1,42 @@
 <ModOps>
-<!-- Item Definition GUID:1600000040 - 1600000043 | LineID:1600000040 - 1600000041 -->
+<!-- Item Definition GUID:1600000503 - 1600000506 | LineID:1600000503 - 1600000504 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>1600000040</GUID>
-            <Name>Specialist AE-Watchtower-C</Name>
-            <IconFilename>data/base/graphics/icons/roman_male_ArmsToCustodes.png</IconFilename>
-            <InfoDescription>1600000041</InfoDescription>
+            <GUID>1600000503</GUID>
+            <Name>Specialist AE-Latrines-C</Name>
+            <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+            <InfoDescription>1600000504</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope>  
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>1600000041</GUID>
+                <GUID>1600000504</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
               <Item>
-                <GUID>71277</GUID>
+                <GUID>71278</GUID>
               </Item>
             </Targets>
             <HideInGovernorsBar>1</HideInGovernorsBar>
           </Effect>
           <Item>
-            <Niche>Culture</Niche>
+            <Niche>Agriculture</Niche>
             <TradePrice>2500</TradePrice> 
-            <BarkPool>83302</BarkPool> <!-- <GUID>83302</GUID> -->
+            <BarkPool>0</BarkPool> <!-- <GUID>0</GUID> -->
             <Rarity>Common</Rarity> 
           </Item>
           <Locked>
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>1600000040</OasisId>
+            <OasisId>1600000503</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -51,29 +51,29 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>1600000041</GUID>
-                    <Name>Specialist AE-Watchtower-C BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/roman_male_ArmsToCustodes.png</IconFilename>
+                    <GUID>1600000504</GUID>
+                    <Name>Specialist AE-Latrines-C BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>1600000040</OasisId>
+                    <OasisId>1600000503</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
-                    <AdditionalFunctionalEffect>1600000042</AdditionalFunctionalEffect>
+                    <AdditionalFunctionalEffect>1600000505</AdditionalFunctionalEffect>
                 </BuildingUpgrade>
                 <DistributionUpgrade/>
                 <Buff>
                     <SourceCategory>Item</SourceCategory>
                 </Buff>
                 <ResidenceUpgrade/>
+                <AqueductUpgrade/>
                 <FactoryUpgrade/>
                 <ModuleOwnerUpgrade/>
                 <MaintenanceUpgrade/>
                 <CityInstitutionUpgrade/>
                 <IncidentInfectableUpgrade/>
                 <RecruitmentUpgrade/>
-                <AqueductUpgrade/>
                 <WarehouseUpgrade/>
                 <IrrigationUpgrade/>
             </Values>
@@ -85,16 +85,16 @@
             <Template>Effect</Template>
             <Values>
                 <Standard>
-                    <GUID>1600000042</GUID>
-                    <Name>Specialist AE-Watchtower-C FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/roman_male_ArmsToCustodes.png</IconFilename>
+                    <GUID>1600000505</GUID>
+                    <Name>Specialist AE-Latrines-C FunctionalEffect</Name>
+                    <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
                     <SourceCategory>Adjacency</SourceCategory>
                     <Buffs>
                         <Item>
-                            <GUID>1600000043</GUID>
+                            <GUID>1600000506</GUID>
                         </Item>
                     </Buffs>
                     <Targets>
@@ -106,7 +106,7 @@
                     <HideInGovernorsBar>1</HideInGovernorsBar>
                 </Effect>
                 <Text>
-                    <OasisId>1600000040</OasisId>
+                    <OasisId>1600000503</OasisId>
                 </Text>
             </Values>
         </Asset>
@@ -117,22 +117,22 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>1600000043</GUID>
-                    <Name>Specialist AE-Watchtower-C FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/roman_male_ArmsToCustodes.png</IconFilename>
+                    <GUID>1600000506</GUID>
+                    <Name>Specialist AE-Latrines-C FunctionalEffect BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>1600000040</OasisId>
+                    <OasisId>1600000503</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
                     <AdditionalAttributes>
-                        <Happiness>
+                        <Health>
                             <AmountOrPercent>
                                 <Value>1</Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
-                        </Happiness>
+                        </Health>
                     </AdditionalAttributes>
                 </BuildingUpgrade>
                 <DistributionUpgrade/>

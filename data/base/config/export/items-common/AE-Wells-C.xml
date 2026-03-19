@@ -27,7 +27,7 @@
             <HideInGovernorsBar>1</HideInGovernorsBar>
           </Effect>
           <Item>
-            <Niche>Agriculture</Niche>
+            <Niche>Military</Niche>
             <TradePrice>2500</TradePrice> 
             <BarkPool>80242</BarkPool> <!-- <GUID>80242</GUID> -->
             <Rarity>Common</Rarity> 
@@ -127,54 +127,12 @@
                 <HealthUpgrade/>
                 <BuildingUpgrade>
                     <AdditionalAttributes>
-                        <Population>
-                        <AmountOrPercent>
-                            <Value>0</Value>
-                            <Percental>0</Percental>
-                        </AmountOrPercent>
-                        </Population>
-                        <Happiness>
-                        <AmountOrPercent>
-                            <Value>1</Value>
-                            <Percental>0</Percental>
-                        </AmountOrPercent>
-                        </Happiness>
-                        <Money>
-                        <AmountOrPercent>
-                            <Value>1</Value>
-                            <Percental>0</Percental>
-                        </AmountOrPercent>
-                        </Money>
-                        <Prestige>
-                        <AmountOrPercent>
-                            <Value>2</Value>
-                            <Percental>0</Percental>
-                        </AmountOrPercent>
-                        </Prestige>
-                        <Belief>
-                            <AmountOrPercent>
-                                <Value>0</Value>
-                                <Percental>0</Percental>
-                            </AmountOrPercent>
-                        </Belief>
-                        <Knowledge>
-                            <AmountOrPercent>
-                                <Value>0</Value>
-                                <Percental>0</Percental>
-                            </AmountOrPercent>
-                        </Knowledge>
                         <FireSafety>
                             <AmountOrPercent>
-                                <Value>0</Value>
+                                <Value>1</Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </FireSafety>
-                        <Health>
-                            <AmountOrPercent>
-                                <Value>0</Value>
-                                <Percental>0</Percental>
-                            </AmountOrPercent>
-                        </Health>
                     </AdditionalAttributes>
                 </BuildingUpgrade>
                 <DistributionUpgrade/>

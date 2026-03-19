@@ -1,22 +1,22 @@
 <ModOps>
-<!-- Item Definition GUID:1600000040 - 1600000043 | LineID:1600000040 - 1600000041 -->
+<!-- Item Definition GUID:1600000511 - 1600000514 | LineID:1600000511 - 1600000512 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>1600000040</GUID>
-            <Name>Specialist AE-Watchtower-C</Name>
-            <IconFilename>data/base/graphics/icons/roman_male_ArmsToCustodes.png</IconFilename>
-            <InfoDescription>1600000041</InfoDescription>
+            <GUID>1600000511</GUID>
+            <Name>Specialist AE-Watchtower-R</Name>
+            <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+            <InfoDescription>1600000512</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope>  
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>1600000041</GUID>
+                <GUID>1600000512</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
@@ -27,16 +27,16 @@
             <HideInGovernorsBar>1</HideInGovernorsBar>
           </Effect>
           <Item>
-            <Niche>Culture</Niche>
-            <TradePrice>2500</TradePrice> 
-            <BarkPool>83302</BarkPool> <!-- <GUID>83302</GUID> -->
-            <Rarity>Common</Rarity> 
+            <Niche>Finance</Niche>
+            <TradePrice>12500</TradePrice> 
+            <BarkPool>0</BarkPool> <!-- <GUID>0</GUID> -->
+            <Rarity>Rare</Rarity> 
           </Item>
           <Locked>
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>1600000040</OasisId>
+            <OasisId>1600000511</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -51,29 +51,29 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>1600000041</GUID>
-                    <Name>Specialist AE-Watchtower-C BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/roman_male_ArmsToCustodes.png</IconFilename>
+                    <GUID>1600000512</GUID>
+                    <Name>Specialist AE-Watchtower-R BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>1600000040</OasisId>
+                    <OasisId>1600000511</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
-                    <AdditionalFunctionalEffect>1600000042</AdditionalFunctionalEffect>
+                    <AdditionalFunctionalEffect>1600000513</AdditionalFunctionalEffect>
                 </BuildingUpgrade>
                 <DistributionUpgrade/>
                 <Buff>
                     <SourceCategory>Item</SourceCategory>
                 </Buff>
                 <ResidenceUpgrade/>
+                <AqueductUpgrade/>
                 <FactoryUpgrade/>
                 <ModuleOwnerUpgrade/>
                 <MaintenanceUpgrade/>
                 <CityInstitutionUpgrade/>
                 <IncidentInfectableUpgrade/>
                 <RecruitmentUpgrade/>
-                <AqueductUpgrade/>
                 <WarehouseUpgrade/>
                 <IrrigationUpgrade/>
             </Values>
@@ -85,16 +85,16 @@
             <Template>Effect</Template>
             <Values>
                 <Standard>
-                    <GUID>1600000042</GUID>
-                    <Name>Specialist AE-Watchtower-C FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/roman_male_ArmsToCustodes.png</IconFilename>
+                    <GUID>1600000513</GUID>
+                    <Name>Specialist AE-Watchtower-R FunctionalEffect</Name>
+                    <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
                     <SourceCategory>Adjacency</SourceCategory>
                     <Buffs>
                         <Item>
-                            <GUID>1600000043</GUID>
+                            <GUID>1600000514</GUID>
                         </Item>
                     </Buffs>
                     <Targets>
@@ -106,7 +106,7 @@
                     <HideInGovernorsBar>1</HideInGovernorsBar>
                 </Effect>
                 <Text>
-                    <OasisId>1600000040</OasisId>
+                    <OasisId>1600000511</OasisId>
                 </Text>
             </Values>
         </Asset>
@@ -117,22 +117,28 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>1600000043</GUID>
-                    <Name>Specialist AE-Watchtower-C FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/roman_male_ArmsToCustodes.png</IconFilename>
+                    <GUID>1600000514</GUID>
+                    <Name>Specialist AE-Watchtower-R FunctionalEffect BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>1600000040</OasisId>
+                    <OasisId>1600000511</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
                     <AdditionalAttributes>
                         <Happiness>
                             <AmountOrPercent>
-                                <Value>1</Value>
+                                <Value>-0.5</Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </Happiness>
+                        <Money>
+                            <AmountOrPercent>
+                                <Value>1.5</Value>
+                                <Percental>0</Percental>
+                            </AmountOrPercent>
+                        </Money>
                     </AdditionalAttributes>
                 </BuildingUpgrade>
                 <DistributionUpgrade/>
