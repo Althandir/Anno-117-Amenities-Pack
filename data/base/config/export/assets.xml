@@ -43,19 +43,19 @@
 
 <!-- Add to Pools -->
 <Include File="pools/AssetList/AssetListPool.xml" />
-<Include File="pools/RewardPool/RewardPool-AllItems&Specialists.xml" />
-<Include File="pools/RewardPool/RewardPool-Culture-C.xml" />
-<Include File="pools/RewardPool/RewardPool-Culture-L.xml" />
-<Include File="pools/RewardPool/RewardPool-Finance-L.xml" />
-<Include File="pools/RewardPool/RewardPool-Finance-R.xml" />
-<Include File="pools/RewardPool/RewardPool-Military-C.xml" />
-<Include File="pools/RewardPool/RewardPool-Military-L.xml" />
-<Include File="pools/RewardPool/RewardPool-Nature-C.xml" />
-<Include File="pools/RewardPool/RewardPool-Nature-L.xml" />
-<Include File="pools/RewardPool/RewardPool-Religion-L.xml" />
-<Include File="pools/RewardPool/RewardPool-Religion-R.xml" />
-<Include File="pools/RewardPool/RewardPool-Research-L.xml" />
-<Include File="pools/RewardPool/RewardPool-Research-R.xml" />
+<Include File="pools/RewardPool/AllItems&Specialists.xml" />
+<Include File="pools/RewardPool/Culture-C.xml" />
+<Include File="pools/RewardPool/Culture-L.xml" />
+<Include File="pools/RewardPool/Finance-L.xml" />
+<Include File="pools/RewardPool/Finance-R.xml" />
+<Include File="pools/RewardPool/Military-C.xml" />
+<Include File="pools/RewardPool/Military-L.xml" />
+<Include File="pools/RewardPool/Nature-C.xml" />
+<Include File="pools/RewardPool/Nature-L.xml" />
+<Include File="pools/RewardPool/Religion-L.xml" />
+<Include File="pools/RewardPool/Religion-R.xml" />
+<Include File="pools/RewardPool/Research-L.xml" />
+<Include File="pools/RewardPool/Research-R.xml" />
 
 <!-- Add to Traderpools --> 
 <Include File="pools/Traders/pools-common.xml" />
