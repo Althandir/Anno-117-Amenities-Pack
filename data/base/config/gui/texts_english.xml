@@ -5,7 +5,7 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Gaius Armifex, Local Armorist</Text>
+          <Text>PlaceholderText</Text>
           <LineId>1600000040</LineId> <!-- <GUID>1600000040</GUID> -->
       </Text>
       <!-- Description -->
