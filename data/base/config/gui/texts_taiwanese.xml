@@ -1,0 +1,225 @@
+<ModOps>
+
+  <!-- Specialist AE-Watchtower-C -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Attentive Guard</Text>
+          <LineId>1600000040</LineId> <!-- <GUID>1600000040</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Helps improving order in the streets. &#xD;(Amenities-Pack)</Text>
+          <LineId>1600000041</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AE-Wells-C -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Stationed Water Carrier</Text>
+          <LineId>1600000052</LineId> <!-- <GUID>1600000052</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>In an emergency, she delivers water to the Vigiles more quickly. &#xD;(Amenities-Pack)</Text>
+          <LineId>1600000053</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AE-Latrines-C -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Happy Latrine Cleaner</Text>
+          <LineId>1600000503</LineId> <!-- <GUID>1600000503</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>He looks forward to cleaning the latrines every time. &#xD;(Amenities-Pack)</Text>
+          <LineId>1600000504</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AE-Latrines-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Aspiring Spy</Text>
+          <LineId>1600000507</LineId> <!-- <GUID>1600000507</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Deters other visitors to use the latrine as a deaddrop. &#xD;(Amenities-Pack)</Text>
+          <LineId>1600000508</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AE-Watchtower-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Tax Collector</Text>
+          <LineId>1600000511</LineId> <!-- <GUID>1600000511</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>"Everyone here will be made to pay the tribute!" &#xD;(Amenities-Pack)</Text>
+          <LineId>1600000512</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AE-Wells-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Superstitious Resident</Text>
+          <LineId>1600000515</LineId> <!-- <GUID>1600000515</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>She throws coins into the fountain and asks for a blessing. Doesn't she know that coins can't extinguish fires? &#xD;(Amenities-Pack)</Text>
+          <LineId>1600000516</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AE-Latrines-Health-L -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Septimus Gutterius, Curator Latrinarium</Text>
+          <LineId>1600000519</LineId> <!-- <GUID>1600000519</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>He and his group keeps all the latrines on this island in excellent shape. &#xD;(Amenities-Pack)</Text>
+          <LineId>1600000520</LineId> 
+      </Text>
+      <!-- Boosted Hint -->
+      <Text>
+          <Text>Insists on regular health checkups for his staff. (4x Medici on Island)</Text>
+          <LineId>1600000521</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AE-Watchtower-Happy-L -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Gaius Custos, the strict Guardian</Text>
+          <LineId>1600000526</LineId> <!-- <GUID>1600000526</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Deploys additional guards to enforce order by roman law. &#xD;(Amenities-Pack)</Text>
+          <LineId>1600000527</LineId> 
+      </Text>
+      <!-- Boosted Hint -->
+      <Text>
+          <Text>Requires a minimum amount of custodia on site. (4x Custodia on Island)</Text>
+          <LineId>1600000528</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AE-Wells-FireSafety-L -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Servius Aquila, Aquilex Romanus</Text>
+          <LineId>1600000533</LineId> <!-- <GUID>1600000533</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Commissions the digging of deeper wells for the case of fire. &#xD;(Amenities-Pack)</Text>
+          <LineId>1600000534</LineId> 
+      </Text>
+      <!-- Boosted Hint -->
+      <Text>
+          <Text>Is pushing for an additional water supply for his wells. (3x Cistern on Island)</Text>
+          <LineId>1600000535</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AE-Latrines-Know-L -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Nefer-Hor, Egyptian Master of Espionage</Text>
+          <LineId>1600000540</LineId> <!-- <GUID>1600000540</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>He had already established his spy network before his arrival. He is also extremely skilled at using insults. &#xD;(Amenities-Pack)</Text>
+          <LineId>1600000541</LineId> 
+      </Text>
+      <!-- Boosted Hint -->
+      <Text>
+          <Text>Deaddrops are ideal for passing on information. (12x Latrine on Island)</Text>
+          <LineId>1600000542</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+  
+  <!-- Specialist AE-Watchtower-Money-L -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Manius Rufus, Imperial Customs Guard</Text>
+          <LineId>1600000547</LineId> <!-- <GUID>1600000547</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>His network of customs posts provides Rome with an additional source of revenue. Now he is at your service. &#xD;(Amenities-Pack)</Text>
+          <LineId>1600000548</LineId> 
+      </Text>
+      <!-- Boosted Hint -->
+      <Text>
+          <Text>Needs a sufficiently large network of customs checkpoints to meet his quotas. (12x Watchtower on Island)</Text>
+          <LineId>1600000549</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+  
+  <!-- Specialist AE-Wells-Belief-L -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Fontana Spes, hopeful Denari Donor</Text>
+          <LineId>1600000554</LineId> <!-- <GUID>1600000554</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>She spreads the belief that making offerings at wells brings divine blessings. At least she and her followers take extra care of the wells. &#xD;(Amenities-Pack)</Text>
+          <LineId>1600000555</LineId> 
+      </Text>
+      <!-- Boosted Hint -->
+      <Text>
+          <Text>Addresses her followers from a sacred place. (1x Temple on Island)</Text>
+          <LineId>1600000556</LineId> 
+      </Text>
+    </ModOp>
+  </Group> 
+
+</ModOps>
