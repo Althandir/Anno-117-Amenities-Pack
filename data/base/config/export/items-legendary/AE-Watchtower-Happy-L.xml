@@ -326,7 +326,7 @@
                     <AdditionalAttributes>
                         <Happiness>
                             <AmountOrPercent>
-                                <Value>1</Value>
+                                <Value>1.5</Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </Happiness>
@@ -336,12 +336,6 @@
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </Prestige>
-                        <Knowledge>
-                            <AmountOrPercent>
-                                <Value>0.5</Value>
-                                <Percental>0</Percental>
-                            </AmountOrPercent>
-                        </Knowledge>
                     </AdditionalAttributes>
                 </BuildingUpgrade>
                 <DistributionUpgrade/>

@@ -303,15 +303,9 @@
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </Prestige>
-                        <Belief>
-                            <AmountOrPercent>
-                                <Value>0.5</Value>
-                                <Percental>0</Percental>
-                            </AmountOrPercent>
-                        </Belief>
                         <FireSafety>
                             <AmountOrPercent>
-                                <Value>1</Value>
+                                <Value>1.5</Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </FireSafety>
