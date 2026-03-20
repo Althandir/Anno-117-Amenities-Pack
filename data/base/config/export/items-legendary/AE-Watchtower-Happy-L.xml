@@ -143,7 +143,12 @@
                 </ResidenceUpgrade>
                 <FactoryUpgrade/>
                 <ModuleOwnerUpgrade/>
-                <MaintenanceUpgrade/>
+                <MaintenanceUpgrade>
+                    <WorkforceMaintenanceFactorUpgrade>
+                        <Value>-25</Value>
+                        <Percental>1</Percental>
+                    </WorkforceMaintenanceFactorUpgrade>
+                </MaintenanceUpgrade>
                 <CityInstitutionUpgrade/>
                 <IncidentInfectableUpgrade/>
                 <RecruitmentUpgrade/>
@@ -256,7 +261,12 @@
                 </ResidenceUpgrade>
                 <FactoryUpgrade/>
                 <ModuleOwnerUpgrade/>
-                <MaintenanceUpgrade/>
+                <MaintenanceUpgrade>
+                    <WorkforceMaintenanceFactorUpgrade>
+                        <Value>-50</Value>
+                        <Percental>1</Percental>
+                    </WorkforceMaintenanceFactorUpgrade>
+                </MaintenanceUpgrade>
                 <CityInstitutionUpgrade/>
                 <IncidentInfectableUpgrade/>
                 <RecruitmentUpgrade/>
