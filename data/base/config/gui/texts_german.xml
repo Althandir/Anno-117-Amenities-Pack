@@ -101,17 +101,17 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>PlaceholderText, PlaceholderText</Text>
+          <Text>PlaceholderText, Verwalter der Latrinenreinigung</Text>
           <LineId>1600000519</LineId> <!-- <GUID>1600000519</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>PlaceholderText</Text>
+          <Text>Er und seine Mannschaft halten alle Latrinen auf dieser Insel in einen guten Zustand. &#xD;(Amenities-Pack)</Text>
           <LineId>1600000520</LineId> 
       </Text>
       <!-- Boosted Hint -->
       <Text>
-          <Text>PlaceholderText (4x Medici on Island)</Text>
+          <Text>Besteht auf häufige gesundheitliche Überprüfungen für seine Leute. (4x Medici auf Insel)</Text>
           <LineId>1600000521</LineId> 
       </Text>
     </ModOp>
@@ -122,17 +122,17 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>PlaceholderText, PlaceholderText</Text>
+          <Text>PlaceholderText, der strenge Wächter</Text>
           <LineId>1600000526</LineId> <!-- <GUID>1600000526</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>PlaceholderText</Text>
+          <Text>Stellt zusätzliche Wachen ab um die allgemeine römische Ordnung durchzusetzen. &#xD;(Amenities-Pack)</Text>
           <LineId>1600000527</LineId> 
       </Text>
       <!-- Boosted Hint -->
       <Text>
-          <Text>PlaceholderText (4x Custodia on Island)</Text>
+          <Text>Benötigt eine Grundanzahl an Custodia vor Ort. (4x Custodia auf Insel)</Text>
           <LineId>1600000528</LineId> 
       </Text>
     </ModOp>
@@ -143,17 +143,17 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>PlaceholderText, PlaceholderText</Text>
+          <Text>PlaceholderText, Brunnenarchitekt</Text>
           <LineId>1600000533</LineId> <!-- <GUID>1600000533</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>PlaceholderText</Text>
+          <Text>Beauftragt das Graben tieferer Brunnen für den Brandfall. &#xD;(Amenities-Pack)</Text>
           <LineId>1600000534</LineId> 
       </Text>
       <!-- Boosted Hint -->
       <Text>
-          <Text>PlaceholderText (3x Water Distributor on Island)</Text>
+          <Text>Drängt auf eine zusätzliche Wasserversorgung für seine Brunnen. (3x Zisterne auf Insel)</Text>
           <LineId>1600000535</LineId> 
       </Text>
     </ModOp>
@@ -164,17 +164,17 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>PlaceholderText, PlaceholderText</Text>
+          <Text>PlaceholderText, ägyptischer Spionagemeister</Text>
           <LineId>1600000540</LineId> <!-- <GUID>1600000540</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>PlaceholderText</Text>
+          <Text>Hat bereits vor seiner Ankunft sein Spionagenetzwerk etabliert. Ist zudem äußert belehrt in der Nutzung von Beleidigungen. &#xD;(Amenities-Pack)</Text>
           <LineId>1600000541</LineId> 
       </Text>
       <!-- Boosted Hint -->
       <Text>
-          <Text>PlaceholderText (12x Latrines on Island)</Text>
+          <Text>Tote Briefkästen sind ideal zur Informationsweitergabe. (12x Latrine auf Insel)</Text>
           <LineId>1600000542</LineId> 
       </Text>
     </ModOp>
@@ -185,17 +185,17 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>PlaceholderText, PlaceholderText</Text>
+          <Text>PlaceholderText, kaiserliche Zollwache</Text>
           <LineId>1600000547</LineId> <!-- <GUID>1600000547</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>PlaceholderText</Text>
+          <Text>Sein Netzwerk an Zollwachen stellt eine zusätzliche Einnahmequelle für Rom dar. Nun steht er in euren Diensten. &#xD;(Amenities-Pack)</Text>
           <LineId>1600000548</LineId> 
       </Text>
       <!-- Boosted Hint -->
       <Text>
-          <Text>PlaceholderText (12x Watchtower on Island)</Text>
+          <Text>Braucht ein ausreichend großes Netzwerk an Zollstationen um seine Quoten zu erfüllen. (12x Wachturm auf Insel)</Text>
           <LineId>1600000549</LineId> 
       </Text>
     </ModOp>
@@ -206,17 +206,17 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>PlaceholderText, PlaceholderText</Text>
+          <Text>PlaceholderText, hoffnungsvolle Denariispenderin</Text>
           <LineId>1600000554</LineId> <!-- <GUID>1600000554</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>PlaceholderText</Text>
+          <Text>Verbreitet den Glauben dass Spenden in Brunnen den göttliche Segen hervorbringen. Wenigstens pflegen Sie und ihre Anhänger die Brunnen zusätzlich. &#xD;(Amenities-Pack)</Text>
           <LineId>1600000555</LineId> 
       </Text>
       <!-- Boosted Hint -->
       <Text>
-          <Text>PlaceholderText (1x Temple on Island)</Text>
+          <Text>Spricht ihren Anhängern von einem heiligen Ort zu. (1x Tempel auf Insel)</Text>
           <LineId>1600000556</LineId> 
       </Text>
     </ModOp>
