@@ -8,7 +8,7 @@
             <Standard>
                 <GUID>1600000554</GUID>
                 <Name>Specialist AE-Wells-Belief-L</Name>
-                <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                <IconFilename>data/base/graphics/icons/female_AE-Wells-Belief-L.png</IconFilename>
                 <InfoDescription>1600000555</InfoDescription>
             </Standard>
             <Effect>
@@ -99,7 +99,7 @@
                 <Standard>
                     <GUID>1600000555</GUID>
                     <Name>Specialist AE-Wells-Belief-L BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/female_AE-Wells-Belief-L.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000554</OasisId>
@@ -134,7 +134,7 @@
                 <Standard>
                     <GUID>1600000556</GUID>
                     <Name>Specialist AE-Wells-Belief-L FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/female_AE-Wells-Belief-L.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
@@ -166,7 +166,7 @@
                 <Standard>
                     <GUID>1600000557</GUID>
                     <Name>Specialist AE-Wells-Belief-L FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/female_AE-Wells-Belief-L.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000554</OasisId>
@@ -218,7 +218,7 @@
                 <Standard>
                     <GUID>1600000558</GUID>
                     <Name>Specialist AE-Wells-Belief-L Boost BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/female_AE-Wells-Belief-L.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000554</OasisId>
@@ -253,7 +253,7 @@
                 <Standard>
                     <GUID>1600000559</GUID>
                     <Name>Specialist AE-Wells-Belief-L Boost FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/female_AE-Wells-Belief-L.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
@@ -285,7 +285,7 @@
                 <Standard>
                     <GUID>1600000560</GUID>
                     <Name>Specialist AE-Wells-Belief-L Boost FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/female_AE-Wells-Belief-L.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000554</OasisId>

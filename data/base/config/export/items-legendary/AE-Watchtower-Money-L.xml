@@ -8,7 +8,7 @@
             <Standard>
                 <GUID>1600000547</GUID>
                 <Name>Specialist AE-Watchtower-Money-L</Name>
-                <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                <IconFilename>data/base/graphics/icons/r_male_Watchtower-Money-L.png</IconFilename>
                 <InfoDescription>1600000548</InfoDescription>
             </Standard>
             <Effect>
@@ -99,7 +99,7 @@
                 <Standard>
                     <GUID>1600000548</GUID>
                     <Name>Specialist AE-Watchtower-Money-L BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/r_male_Watchtower-Money-L.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000547</OasisId>
@@ -134,7 +134,7 @@
                 <Standard>
                     <GUID>1600000549</GUID>
                     <Name>Specialist AE-Watchtower-Money-L FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/r_male_Watchtower-Money-L.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
@@ -166,7 +166,7 @@
                 <Standard>
                     <GUID>1600000550</GUID>
                     <Name>Specialist AE-Watchtower-Money-L FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/r_male_Watchtower-Money-L.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000547</OasisId>
@@ -254,7 +254,7 @@
                 <Standard>
                     <GUID>1600000551</GUID>
                     <Name>Specialist AE-Watchtower-Money-L Boost BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/r_male_Watchtower-Money-L.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000547</OasisId>
@@ -289,7 +289,7 @@
                 <Standard>
                     <GUID>1600000552</GUID>
                     <Name>Specialist AE-Watchtower-Money-L Boost FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/r_male_Watchtower-Money-L.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
@@ -321,7 +321,7 @@
                 <Standard>
                     <GUID>1600000553</GUID>
                     <Name>Specialist AE-Watchtower-Money-L Boost FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/r_male_Watchtower-Money-L.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000547</OasisId>

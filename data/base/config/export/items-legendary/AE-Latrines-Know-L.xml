@@ -8,7 +8,7 @@
             <Standard>
                 <GUID>1600000540</GUID>
                 <Name>Specialist AE-Latrines-Know-L</Name>
-                <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                <IconFilename>data/base/graphics/icons/male_Latrines-Know-L.png</IconFilename>
                 <InfoDescription>1600000541</InfoDescription>
             </Standard>
             <Effect>
@@ -99,7 +99,7 @@
                 <Standard>
                     <GUID>1600000541</GUID>
                     <Name>Specialist AE-Latrines-Know-L BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/male_Latrines-Know-L.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000540</OasisId>
@@ -134,7 +134,7 @@
                 <Standard>
                     <GUID>1600000542</GUID>
                     <Name>Specialist AE-Latrines-Know-L FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/male_Latrines-Know-L.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
@@ -166,7 +166,7 @@
                 <Standard>
                     <GUID>1600000543</GUID>
                     <Name>Specialist AE-Latrines-Know-L FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/male_Latrines-Know-L.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000540</OasisId>
@@ -218,7 +218,7 @@
                 <Standard>
                     <GUID>1600000544</GUID>
                     <Name>Specialist AE-Latrines-Know-L Boost BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/male_Latrines-Know-L.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000540</OasisId>
@@ -253,7 +253,7 @@
                 <Standard>
                     <GUID>1600000545</GUID>
                     <Name>Specialist AE-Latrines-Know-L Boost FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/male_Latrines-Know-L.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
@@ -285,7 +285,7 @@
                 <Standard>
                     <GUID>1600000546</GUID>
                     <Name>Specialist AE-Latrines-Know-L Boost FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/male_Latrines-Know-L.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000540</OasisId>

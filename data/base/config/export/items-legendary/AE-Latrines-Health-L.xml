@@ -8,7 +8,7 @@
             <Standard>
                 <GUID>1600000519</GUID>
                 <Name>Specialist AE-Latrines-Health-L</Name>
-                <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                <IconFilename>data/base/graphics/icons/male_Latrines-Health-L.png</IconFilename>
                 <InfoDescription>1600000520</InfoDescription>
             </Standard>
             <Effect>
@@ -126,7 +126,7 @@
                 <Standard>
                     <GUID>1600000520</GUID>
                     <Name>Specialist AE-Latrines-Health-L BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/male_Latrines-Health-L.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000519</OasisId>
@@ -161,7 +161,7 @@
                 <Standard>
                     <GUID>1600000521</GUID>
                     <Name>Specialist AE-Latrines-Health-L FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/male_Latrines-Health-L.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
@@ -193,7 +193,7 @@
                 <Standard>
                     <GUID>1600000522</GUID>
                     <Name>Specialist AE-Latrines-Health-L FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/male_Latrines-Health-L.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000519</OasisId>
@@ -239,7 +239,7 @@
                 <Standard>
                     <GUID>1600000523</GUID>
                     <Name>Specialist AE-Latrines-Health-L Boost BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/male_Latrines-Health-L.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000519</OasisId>
@@ -274,7 +274,7 @@
                 <Standard>
                     <GUID>1600000524</GUID>
                     <Name>Specialist AE-Latrines-Health-L Boost FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/male_Latrines-Health-L.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
@@ -306,7 +306,7 @@
                 <Standard>
                     <GUID>1600000525</GUID>
                     <Name>Specialist AE-Latrines-Health-L Boost FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/male_Latrines-Health-L.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000519</OasisId>

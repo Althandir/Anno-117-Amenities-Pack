@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000511</GUID>
             <Name>Specialist AE-Watchtower-R</Name>
-            <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+            <IconFilename>data/base/graphics/icons/male_Watchtower-R.png</IconFilename>
             <InfoDescription>1600000512</InfoDescription>
           </Standard>
           <Effect>
@@ -53,7 +53,7 @@
                 <Standard>
                     <GUID>1600000512</GUID>
                     <Name>Specialist AE-Watchtower-R BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/male_Watchtower-R.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000511</OasisId>
@@ -87,7 +87,7 @@
                 <Standard>
                     <GUID>1600000513</GUID>
                     <Name>Specialist AE-Watchtower-R FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/male_Watchtower-R.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
@@ -119,7 +119,7 @@
                 <Standard>
                     <GUID>1600000514</GUID>
                     <Name>Specialist AE-Watchtower-R FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/male_Watchtower-R.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000511</OasisId>

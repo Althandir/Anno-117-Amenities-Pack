@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000040</GUID>
             <Name>Specialist AE-Watchtower-C</Name>
-            <IconFilename>data/base/graphics/icons/roman_male_ArmsToCustodes.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/r_male_Watchtower-C.png</IconFilename>
             <InfoDescription>1600000041</InfoDescription>
           </Standard>
           <Effect>
@@ -53,7 +53,7 @@
                 <Standard>
                     <GUID>1600000041</GUID>
                     <Name>Specialist AE-Watchtower-C BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/roman_male_ArmsToCustodes.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/r_male_Watchtower-C.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000040</OasisId>
@@ -87,7 +87,7 @@
                 <Standard>
                     <GUID>1600000042</GUID>
                     <Name>Specialist AE-Watchtower-C FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/roman_male_ArmsToCustodes.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/r_male_Watchtower-C.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
@@ -119,7 +119,7 @@
                 <Standard>
                     <GUID>1600000043</GUID>
                     <Name>Specialist AE-Watchtower-C FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/roman_male_ArmsToCustodes.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/r_male_Watchtower-C.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000040</OasisId>

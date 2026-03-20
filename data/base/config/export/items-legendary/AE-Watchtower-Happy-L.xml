@@ -8,7 +8,7 @@
             <Standard>
                 <GUID>1600000526</GUID>
                 <Name>Specialist AE-Watchtower-Happy-L</Name>
-                <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                <IconFilename>data/base/graphics/icons/r_male_Watchtower-Happy-L.png</IconFilename>
                 <InfoDescription>1600000527</InfoDescription>
             </Standard>
             <Effect>
@@ -126,7 +126,7 @@
                 <Standard>
                     <GUID>1600000527</GUID>
                     <Name>Specialist AE-Watchtower-Happy-L BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/r_male_Watchtower-Happy-L.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000526</OasisId>
@@ -161,7 +161,7 @@
                 <Standard>
                     <GUID>1600000528</GUID>
                     <Name>Specialist AE-Watchtower-Happy-L FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/r_male_Watchtower-Happy-L.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
@@ -193,7 +193,7 @@
                 <Standard>
                     <GUID>1600000529</GUID>
                     <Name>Specialist AE-Watchtower-Happy-L FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/r_male_Watchtower-Happy-L.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000526</OasisId>
@@ -239,7 +239,7 @@
                 <Standard>
                     <GUID>1600000530</GUID>
                     <Name>Specialist AE-Watchtower-Happy-L Boost BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/r_male_Watchtower-Happy-L.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000526</OasisId>
@@ -274,7 +274,7 @@
                 <Standard>
                     <GUID>1600000531</GUID>
                     <Name>Specialist AE-Watchtower-Happy-L Boost FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/r_male_Watchtower-Happy-L.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
@@ -306,7 +306,7 @@
                 <Standard>
                     <GUID>1600000532</GUID>
                     <Name>Specialist AE-Watchtower-Happy-L Boost FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/r_male_Watchtower-Happy-L.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000526</OasisId>

@@ -8,7 +8,7 @@
             <Standard>
                 <GUID>1600000533</GUID>
                 <Name>Specialist AE-Wells-FireSafety-L</Name>
-                <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                <IconFilename>data/base/graphics/icons/nb_AE-Wells-FireSafety-L.png</IconFilename>
                 <InfoDescription>1600000534</InfoDescription>
             </Standard>
             <Effect>
@@ -99,7 +99,7 @@
                 <Standard>
                     <GUID>1600000534</GUID>
                     <Name>Specialist AE-Wells-FireSafety-L BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/nb_AE-Wells-FireSafety-L.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000533</OasisId>
@@ -134,7 +134,7 @@
                 <Standard>
                     <GUID>1600000535</GUID>
                     <Name>Specialist AE-Wells-FireSafety-L FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/nb_AE-Wells-FireSafety-L.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
@@ -166,7 +166,7 @@
                 <Standard>
                     <GUID>1600000536</GUID>
                     <Name>Specialist AE-Wells-FireSafety-L FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/nb_AE-Wells-FireSafety-L.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000533</OasisId>
@@ -212,7 +212,7 @@
                 <Standard>
                     <GUID>1600000537</GUID>
                     <Name>Specialist AE-Wells-FireSafety-L Boost BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/nb_AE-Wells-FireSafety-L.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000533</OasisId>
@@ -247,7 +247,7 @@
                 <Standard>
                     <GUID>1600000538</GUID>
                     <Name>Specialist AE-Wells-FireSafety-L Boost FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/nb_AE-Wells-FireSafety-L.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
@@ -279,7 +279,7 @@
                 <Standard>
                     <GUID>1600000539</GUID>
                     <Name>Specialist AE-Wells-FireSafety-L Boost FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/nb_AE-Wells-FireSafety-L.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000533</OasisId>
