@@ -153,7 +153,7 @@
       </Text>
       <!-- Boosted Hint -->
       <Text>
-          <Text>PlaceholderText (3x Water Distributor on Island)</Text>
+          <Text>PlaceholderText (3x Cistern on Island)</Text>
           <LineId>1600000535</LineId> 
       </Text>
     </ModOp>
