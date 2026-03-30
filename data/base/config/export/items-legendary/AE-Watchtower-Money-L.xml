@@ -12,7 +12,7 @@
                 <InfoDescription>1600000548</InfoDescription>
             </Standard>
             <Effect>
-                <EffectScope>ObjectsInArea</EffectScope>  
+                <EffectScope>Radius</EffectScope>  
                 <SourceCategory>Item</SourceCategory>
                 <Buffs>
                 <Item>
@@ -179,54 +179,24 @@
                 <HealthUpgrade/>
                 <BuildingUpgrade>
                     <AdditionalAttributes>
-                        <Population>
-                            <AmountOrPercent>
-                                <Value>0</Value>
-                                <Percental>0</Percental>
-                            </AmountOrPercent>
-                        </Population>
                         <Happiness>
                             <AmountOrPercent>
-                                <Value>-0.5</Value>
+                                <Value>-1</Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </Happiness>
                         <Money>
                             <AmountOrPercent>
-                                <Value>1.5</Value>
+                                <Value>2</Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </Money>
-                        <Prestige>
-                            <AmountOrPercent>
-                                <Value>0</Value>
-                                <Percental>0</Percental>
-                            </AmountOrPercent>
-                        </Prestige>
-                        <Belief>
-                            <AmountOrPercent>
-                                <Value>0</Value>
-                                <Percental>0</Percental>
-                            </AmountOrPercent>
-                        </Belief>
                         <Knowledge>
                             <AmountOrPercent>
-                                <Value>0</Value>
+                                <Value>0.5</Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </Knowledge>
-                        <Health>
-                            <AmountOrPercent>
-                                <Value>0</Value>
-                                <Percental>0</Percental>
-                            </AmountOrPercent>
-                        </Health>
-                        <FireSafety>
-                            <AmountOrPercent>
-                                <Value>0</Value>
-                                <Percental>0</Percental>
-                            </AmountOrPercent>
-                        </FireSafety>
                     </AdditionalAttributes>
                 </BuildingUpgrade>
                 <DistributionUpgrade/>
@@ -341,13 +311,13 @@
                     <AdditionalAttributes>
                         <Money>
                             <AmountOrPercent>
-                                <Value>1.5</Value>
+                                <Value>3</Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </Money>
                         <Knowledge>
                             <AmountOrPercent>
-                                <Value>0.5</Value>
+                                <Value>1</Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </Knowledge>
