@@ -12,7 +12,7 @@
                 <InfoDescription>1600000541</InfoDescription>
             </Standard>
             <Effect>
-                <EffectScope>ObjectsInArea</EffectScope>  
+                <EffectScope>Radius</EffectScope>  
                 <SourceCategory>Item</SourceCategory>
                 <Buffs>
                 <Item>
@@ -179,15 +179,21 @@
                 <HealthUpgrade/>
                 <BuildingUpgrade>
                     <AdditionalAttributes>
+                        <Money>
+                            <AmountOrPercent>
+                                <Value>0.5</Value>
+                                <Percental>0</Percental>
+                            </AmountOrPercent>
+                        </Money>
                         <Knowledge>
                             <AmountOrPercent>
-                                <Value>1.5</Value>
+                                <Value>2</Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </Knowledge>
                         <Health>
                             <AmountOrPercent>
-                                <Value>-0.5</Value>
+                                <Value>-1</Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </Health>
@@ -305,13 +311,13 @@
                     <AdditionalAttributes>
                         <Money>
                             <AmountOrPercent>
-                                <Value>0.5</Value>
+                                <Value>1</Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </Money>
                         <Knowledge>
                             <AmountOrPercent>
-                                <Value>1.5</Value>
+                                <Value>3</Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </Knowledge>

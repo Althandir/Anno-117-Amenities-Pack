@@ -12,7 +12,7 @@
                 <InfoDescription>1600000520</InfoDescription>
             </Standard>
             <Effect>
-                <EffectScope>ObjectsInArea</EffectScope>  
+                <EffectScope>Radius</EffectScope>  
                 <SourceCategory>Item</SourceCategory>
                 <Buffs>
                 <Item>
@@ -206,9 +206,15 @@
                 <HealthUpgrade/>
                 <BuildingUpgrade>
                     <AdditionalAttributes>
+                        <Population>
+                            <AmountOrPercent>
+                                <Value>0.5</Value>
+                                <Percental>0</Percental>
+                            </AmountOrPercent>
+                        </Population>
                         <Health>
                             <AmountOrPercent>
-                                <Value>1</Value>
+                                <Value>1.5</Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </Health>
@@ -326,13 +332,13 @@
                     <AdditionalAttributes>
                         <Population>
                             <AmountOrPercent>
-                                <Value>0.5</Value>
+                                <Value>1</Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </Population>
                         <Health>
                             <AmountOrPercent>
-                                <Value>1.5</Value>
+                                <Value>3</Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </Health>
