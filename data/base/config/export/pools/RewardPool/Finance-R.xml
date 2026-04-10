@@ -2,7 +2,7 @@
 <!-- Add to RewardPools -->
 <!-- RewardList Finance Rare -->
 <Group>
-    <ModOp Type="add" GUID="121880" Path="/Values/RewardPool/ItemsPool">
+    <ModOp Type="add" GUID="121861" Path="/Values/RewardPool/ItemsPool">
     <Item>
         <ItemLink>1600000511</ItemLink>
     </Item> 

@@ -2,7 +2,7 @@
 <!-- Add to RewardPools -->
 <!-- RewardList Culture Common -->
 <Group>
-    <ModOp Type="add" GUID="121880" Path="/Values/RewardPool/ItemsPool">
+    <ModOp Type="add" GUID="121890" Path="/Values/RewardPool/ItemsPool">
     <Item>
         <ItemLink>1600000040</ItemLink>
     </Item> 
