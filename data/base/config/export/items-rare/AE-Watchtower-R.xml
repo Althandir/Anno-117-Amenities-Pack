@@ -29,7 +29,7 @@
           <Item>
             <Niche>Finance</Niche>
             <TradePrice>12500</TradePrice> 
-            <BarkPool>0</BarkPool> <!-- <GUID>0</GUID> -->
+            <BarkPool>80244</BarkPool> <!-- <GUID>80244</GUID> -->
             <Rarity>Rare</Rarity> 
           </Item>
           <Locked>
