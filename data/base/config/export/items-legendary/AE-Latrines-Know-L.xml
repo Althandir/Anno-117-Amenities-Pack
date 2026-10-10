@@ -12,7 +12,7 @@
                 <InfoDescription>1600000541</InfoDescription>
             </Standard>
             <Effect>
-                <EffectScope>Radius</EffectScope>  
+                <EffectScope>ObjectsInArea</EffectScope>  
                 <SourceCategory>Item</SourceCategory>
                 <Buffs>
                 <Item>
@@ -179,21 +179,15 @@
                 <HealthUpgrade/>
                 <BuildingUpgrade>
                     <AdditionalAttributes>
-                        <Money>
-                            <AmountOrPercent>
-                                <Value>0.5</Value>
-                                <Percental>0</Percental>
-                            </AmountOrPercent>
-                        </Money>
                         <Knowledge>
                             <AmountOrPercent>
-                                <Value>2</Value>
+                                <Value>1.5</Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </Knowledge>
                         <Health>
                             <AmountOrPercent>
-                                <Value>-1</Value>
+                                <Value>-0.5</Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </Health>
@@ -248,7 +242,7 @@
                 <ModuleOwnerUpgrade/>
                 <MaintenanceUpgrade>
                     <WorkforceMaintenanceFactorUpgrade>
-                        <Value>-50</Value>
+                        <Value>-75</Value>
                         <Percental>1</Percental>
                     </WorkforceMaintenanceFactorUpgrade>
                 </MaintenanceUpgrade>
@@ -317,7 +311,7 @@
                         </Money>
                         <Knowledge>
                             <AmountOrPercent>
-                                <Value>3</Value>
+                                <Value>2</Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </Knowledge>

@@ -111,7 +111,7 @@
       </Text>
       <!-- Boosted Hint -->
       <Text>
-          <Text>Insists on regular health checkups for his staff. (4x Medici on Island)</Text>
+          <Text>Insists on regular usage of soap for their work. (150x Soap in storage)</Text>
           <LineId>1600000521</LineId> 
       </Text>
     </ModOp>
@@ -132,7 +132,7 @@
       </Text>
       <!-- Boosted Hint -->
       <Text>
-          <Text>Requires a minimum amount of custodia on site. (4x Custodia on Island)</Text>
+          <Text>"What are men without arms?" (150x weapons in storage)</Text>
           <LineId>1600000528</LineId> 
       </Text>
     </ModOp>
