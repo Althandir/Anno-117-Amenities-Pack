@@ -8,11 +8,11 @@
             <Standard>
                 <GUID>1600000554</GUID>
                 <Name>Specialist AE-Wells-Belief-L</Name>
-                <IconFilename>data/base/graphics/icons/female_AE-Wells-Belief-L.png</IconFilename>
+                <IconFilename>data/base/graphics/icons/Amenities-Pack/female_AE-Wells-Belief-L.png</IconFilename>
                 <InfoDescription>1600000555</InfoDescription>
             </Standard>
             <Effect>
-                <EffectScope>Radius</EffectScope>  
+                <EffectScope>ObjectsInArea</EffectScope>  
                 <SourceCategory>Item</SourceCategory>
                 <Buffs>
                 <Item>
@@ -99,7 +99,7 @@
                 <Standard>
                     <GUID>1600000555</GUID>
                     <Name>Specialist AE-Wells-Belief-L BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/female_AE-Wells-Belief-L.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Amenities-Pack/female_AE-Wells-Belief-L.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000554</OasisId>
@@ -139,7 +139,7 @@
                 <Standard>
                     <GUID>1600000556</GUID>
                     <Name>Specialist AE-Wells-Belief-L FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/female_AE-Wells-Belief-L.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Amenities-Pack/female_AE-Wells-Belief-L.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
@@ -171,7 +171,7 @@
                 <Standard>
                     <GUID>1600000557</GUID>
                     <Name>Specialist AE-Wells-Belief-L FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/female_AE-Wells-Belief-L.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Amenities-Pack/female_AE-Wells-Belief-L.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000554</OasisId>
@@ -179,21 +179,15 @@
                 <HealthUpgrade/>
                 <BuildingUpgrade>
                     <AdditionalAttributes>
-                        <Prestige>
-                            <AmountOrPercent>
-                                <Value>0.5</Value>
-                                <Percental>0</Percental>
-                            </AmountOrPercent>
-                        </Prestige>
                         <Belief>
                             <AmountOrPercent>
-                                <Value>2</Value>
+                                <Value>1</Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </Belief>
                         <FireSafety>
                             <AmountOrPercent>
-                                <Value>-1</Value>
+                                <Value>-0.5</Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </FireSafety>
@@ -229,7 +223,7 @@
                 <Standard>
                     <GUID>1600000558</GUID>
                     <Name>Specialist AE-Wells-Belief-L Boost BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/female_AE-Wells-Belief-L.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Amenities-Pack/female_AE-Wells-Belief-L.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000554</OasisId>
@@ -248,7 +242,7 @@
                 <ModuleOwnerUpgrade/>
                 <MaintenanceUpgrade>
                     <WorkforceMaintenanceFactorUpgrade>
-                        <Value>-50</Value>
+                        <Value>-75</Value>
                         <Percental>1</Percental>
                     </WorkforceMaintenanceFactorUpgrade>
                 </MaintenanceUpgrade>
@@ -269,7 +263,7 @@
                 <Standard>
                     <GUID>1600000559</GUID>
                     <Name>Specialist AE-Wells-Belief-L Boost FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/female_AE-Wells-Belief-L.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Amenities-Pack/female_AE-Wells-Belief-L.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
@@ -301,7 +295,7 @@
                 <Standard>
                     <GUID>1600000560</GUID>
                     <Name>Specialist AE-Wells-Belief-L Boost FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/female_AE-Wells-Belief-L.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Amenities-Pack/female_AE-Wells-Belief-L.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000554</OasisId>
@@ -317,7 +311,7 @@
                         </Prestige>
                         <Belief>
                             <AmountOrPercent>
-                                <Value>3</Value>
+                                <Value>2</Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </Belief>

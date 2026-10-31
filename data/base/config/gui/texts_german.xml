@@ -10,7 +10,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Sorgt für etwas mehr Ordnung auf den Straßen. &#xD;(Amenities-Pack)</Text>
+          <Text>Sorgt für etwas mehr Ordnung auf den Straßen. &#xD;(Altdolphin-Amenities-Pack)</Text>
           <LineId>1600000041</LineId> 
       </Text>
     </ModOp>
@@ -26,7 +26,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Schleppt im Ernstfall schneller Wasser zu den Vigiles. &#xD;(Amenities-Pack)</Text>
+          <Text>Schleppt im Ernstfall schneller Wasser zu den Vigiles. &#xD;(Altdolphin-Amenities-Pack)</Text>
           <LineId>1600000053</LineId> 
       </Text>
     </ModOp>
@@ -42,7 +42,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Freut sich jedes mal beim Reinigen der Latrinen. &#xD;(Amenities-Pack)</Text>
+          <Text>Freut sich jedes mal beim Reinigen der Latrinen. &#xD;(Altdolphin-Amenities-Pack)</Text>
           <LineId>1600000504</LineId> 
       </Text>
     </ModOp>
@@ -58,7 +58,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Verscheucht andere Besucher um die Latrine als toten Briefkasten zu benutzen. &#xD;(Amenities-Pack)</Text>
+          <Text>Verscheucht andere Besucher um die Latrine als toten Briefkasten zu benutzen. &#xD;(Altdolphin-Amenities-Pack)</Text>
           <LineId>1600000508</LineId> 
       </Text>
     </ModOp>
@@ -74,7 +74,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>"Jeder der hier ist wird seinen Tribut zahlen!" &#xD;(Amenities-Pack)</Text>
+          <Text>"Jeder der hier ist wird seinen Tribut zahlen!" &#xD;(Altdolphin-Amenities-Pack)</Text>
           <LineId>1600000512</LineId> 
       </Text>
     </ModOp>
@@ -90,7 +90,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Wirft Münzen in den Brunnen und bittet um einen Segen. Weiß Sie denn nicht, dass Münzen kein Feuer löschen? &#xD;(Amenities-Pack)</Text>
+          <Text>Wirft Münzen in den Brunnen und bittet um einen Segen. Weiß Sie denn nicht, dass Münzen kein Feuer löschen? &#xD;(Altdolphin-Amenities-Pack)</Text>
           <LineId>1600000516</LineId> 
       </Text>
     </ModOp>
@@ -106,12 +106,12 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Er und seine Mannschaft halten alle Latrinen auf dieser Insel in einen guten Zustand. &#xD;(Amenities-Pack)</Text>
+          <Text>Er und seine Mannschaft halten alle Latrinen auf dieser Insel in einen guten Zustand. &#xD;(Altdolphin-Amenities-Pack)</Text>
           <LineId>1600000520</LineId> 
       </Text>
       <!-- Boosted Hint -->
       <Text>
-          <Text>Besteht auf häufige gesundheitliche Überprüfungen für seine Leute. (4x Medicus auf Insel)</Text>
+          <Text>Besteht auf häufige Nutzung von Seife für deren Arbeit. (150x Seife im Insellager)</Text>
           <LineId>1600000521</LineId> 
       </Text>
     </ModOp>
@@ -127,12 +127,12 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Stellt zusätzliche Wachen ab um die allgemeine römische Ordnung durchzusetzen. &#xD;(Amenities-Pack)</Text>
+          <Text>Stellt zusätzliche Wachen ab um die allgemeine römische Ordnung durchzusetzen. &#xD;(Altdolphin-Amenities-Pack)</Text>
           <LineId>1600000527</LineId> 
       </Text>
       <!-- Boosted Hint -->
       <Text>
-          <Text>Benötigt eine Grundanzahl an Custodia vor Ort. (4x Custodia auf Insel)</Text>
+          <Text>"Was soll ich mit Custodia ohne Waffen?" (150x Waffen im Insellager)</Text>
           <LineId>1600000528</LineId> 
       </Text>
     </ModOp>
@@ -148,7 +148,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Beauftragt das Graben tieferer Brunnen für den Brandfall. &#xD;(Amenities-Pack)</Text>
+          <Text>Beauftragt das Graben tieferer Brunnen für den Brandfall. &#xD;(Altdolphin-Amenities-Pack)</Text>
           <LineId>1600000534</LineId> 
       </Text>
       <!-- Boosted Hint -->
@@ -169,7 +169,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Hat bereits vor seiner Ankunft sein Spionagenetzwerk etabliert. Ist zudem äußert belehrt in der Nutzung von Beleidigungen. &#xD;(Amenities-Pack)</Text>
+          <Text>Hat bereits vor seiner Ankunft sein Spionagenetzwerk etabliert. Ist zudem äußert belehrt in der Nutzung von Beleidigungen. &#xD;(Altdolphin-Amenities-Pack)</Text>
           <LineId>1600000541</LineId> 
       </Text>
       <!-- Boosted Hint -->
@@ -190,7 +190,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Sein Netzwerk an Zollwachen stellt eine zusätzliche Einnahmequelle für Rom dar. Nun steht er in euren Diensten. &#xD;(Amenities-Pack)</Text>
+          <Text>Sein Netzwerk an Zollwachen stellt eine zusätzliche Einnahmequelle für Rom dar. Nun steht er in euren Diensten. &#xD;(Altdolphin-Amenities-Pack)</Text>
           <LineId>1600000548</LineId> 
       </Text>
       <!-- Boosted Hint -->
@@ -211,7 +211,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Verbreitet den Glauben dass Spenden in Brunnen den göttliche Segen hervorbringen. Wenigstens pflegen Sie und ihre Anhänger die Brunnen zusätzlich. &#xD;(Amenities-Pack)</Text>
+          <Text>Verbreitet den Glauben dass Spenden in Brunnen den göttliche Segen hervorbringen. Wenigstens pflegen Sie und ihre Anhänger die Brunnen zusätzlich. &#xD;(Altdolphin-Amenities-Pack)</Text>
           <LineId>1600000555</LineId> 
       </Text>
       <!-- Boosted Hint -->
