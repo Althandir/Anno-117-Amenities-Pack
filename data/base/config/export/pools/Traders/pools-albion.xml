@@ -20,40 +20,40 @@
   <!-- RewardPool Rare -->
   <ModOp Type="add" GUID="83477,83473,83481" Path="/Values/RewardPool/ItemsPool">
     <Item>
-      <Asset>1600000507</Asset>
+      <ItemLink>1600000507</ItemLink>
     </Item>
     <Item>
-      <Asset>1600000511</Asset>
+      <ItemLink>1600000511</ItemLink>
     </Item>
     <Item>
-      <Asset>1600000515</Asset>
+      <ItemLink>1600000515</ItemLink>
     </Item>
   </ModOp>
 
-  <!-- RewardPool Epic Traders -->
+  <!-- RewardPool Epic -->
   <ModOp Type="add" GUID="83478,83474,83482" Path="/Values/RewardPool/ItemsPool">
 
   </ModOp>
 
-  <!-- RewardPool Legendary Traders -->
+  <!-- RewardPool Legendary -->
   <ModOp Type="add" GUID="83479,83475,83483" Path="/Values/RewardPool/ItemsPool">
     <Item>
-      <Asset>1600000519</Asset>
+      <ItemLink>1600000519</ItemLink>
     </Item>
     <Item>
-      <Asset>1600000526</Asset>
+      <ItemLink>1600000526</ItemLink>
     </Item>
     <Item>
-      <Asset>1600000533</Asset>
+      <ItemLink>1600000533</ItemLink>
     </Item>
     <Item>
-      <Asset>1600000540</Asset>
+      <ItemLink>1600000540</ItemLink>
     </Item>
     <Item>
-      <Asset>1600000547</Asset>
+      <ItemLink>1600000547</ItemLink>
     </Item>
     <Item>
-      <Asset>1600000554</Asset>
+      <ItemLink>1600000554</ItemLink>
     </Item>
   </ModOp>
 
